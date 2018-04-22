@@ -1,0 +1,5 @@
+com/example/demo/controller/AppController.class
+com/example/demo/spring/configuration/ApplicationConfiguration.class
+com/example/demo/spring/configuration/ApplicationInitializer.class
+com/example/demo/constant/ApplicationConstant.class
+com/example/demo/spring/DemoApplication.class
